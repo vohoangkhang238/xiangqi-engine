@@ -10,9 +10,8 @@
 ### Chạy engine cờ tướng Pikafish trên cloud shell.segfault.net
 
 **Bài viết này chỉ cho mục đích học tập. Vui lòng không lạm dụng dịch vụ.**
-ssh root@adm.segfault.net
-segfault
 
+1. Vào <https://shell.segfault.net> và làm theo hướng dẫn.
 2. Chạy lệnh `info` trong Terminal để lấy khóa (private key) và cấu hình config kết nối SSH.
 3. Lưu tệp khóa SSH vào thư mục `~/.ssh/` trên máy **Windows**.
 4. Sao chép cấu hình kết nối SSH vào tệp `~/.ssh/config` trên máy **Windows**.
